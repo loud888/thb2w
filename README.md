@@ -3,7 +3,7 @@ API backend cho nhập thông tin tiểu sử và trả lời khảo sát.
 
 ## Cài đặt
 1. Clone repository:
-git clone https://github.com/YOUR_USERNAME/survey-api.git
+git clone (https://github.com/loud888/thb2w.git)
 
 
 2. Cài dependencies:
